@@ -3,7 +3,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>peten</title>
+	<title>peten test project</title>
 </head>
 <body>
 <h1>
@@ -12,6 +12,5 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
-<P> <A src="#">로그인</A></P>
 </body>
 </html>
