@@ -6,11 +6,11 @@ The QR code displayed on the computer screen is authenticated by reading from th
 이 프로그램는 웹브라우저에서 로그인시 컴퓨터화면에서 QR코드를 보여주고, 이를 휴대폰으로 읽어들여서 2차인증을 하는 프로그램입니다.
 
 ## 1.개발 환경
-- Spring Framework 5.0.2.
+- Spring Framework 5.0.2
 - log4j 1.2.15
 - MySql
 - WebSocket 
-- Spring Security
+- Spring Security 4.2.1
 
 #### 현재 개발 진행 상황
 - spring framework 설정(진행중)
@@ -18,3 +18,6 @@ The QR code displayed on the computer screen is authenticated by reading from th
 - MySQL 설정(진행중)
 - 안드로이드 개발(진행중)
 - JAVA Authentication Server(예정) 
+
+> 참고자료
+[Spring Security 설정](http://offbyone.tistory.com/88)
