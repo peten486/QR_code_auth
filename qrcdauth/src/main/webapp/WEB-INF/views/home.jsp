@@ -59,6 +59,7 @@
 <h3>
     [<a href="<c:url value="/intro/introduction.do" />">소개 페이지</a>]
     [<a href="<c:url value="/admin/adminHome.do" />">관리자 홈</a>]
+    [<a href="<c:url value="/EchoView.do" />">소켓</a>]
 </h3>
 
 </body>
