@@ -3,7 +3,7 @@ Spring Framework-based web project.
 The QR code displayed on the computer screen is authenticated by reading from the smartphone.
 
 스프링 프레임워크 기반의 웹.  
-이 프로그램는 웹브라우저에서 로그인시 컴퓨터화면에서 QR코드를 보여주고, 이를 휴대폰으로 읽어들여서 2차인증을 하는 프로그램입니다.
+이 프로그램는 웹브라우저에서 로그인시 컴퓨터화면에서 QR코드를 보여주고, 이를 스마트폰 카메라를 통해서 링크를 따라가서 서버로 인증토큰을 보내서 인증하여 로그인하도록 하는 프로그램입니다.
 
 ## 1.개발 환경
 - Spring Framework 5.0.2
@@ -16,7 +16,6 @@ The QR code displayed on the computer screen is authenticated by reading from th
 - spring framework 설정(진행중)
 - mybatis 설정(예정)
 - MySQL 설정(진행중)
-- 안드로이드 개발(진행중)
 - JAVA Authentication Server(예정) 
 
 > 참고자료
